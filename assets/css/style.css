@@ -1,0 +1,41 @@
+.main{
+    margin-left: 420px;
+    margin-top: 45px;
+}
+
+img {
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+    margin: 50px;
+}
+
+.secondSection {
+    border-left-width: 2px;
+    border-left-style: dashed;
+    border-left-color: gray;
+    width: 400px;
+    padding: 10px;
+    height: 800px;
+    display: inline-block;
+}
+
+.thirdSection {
+
+    border-left-width: 2px;
+    border-left-style: dashed;
+    border-left-color: gray;
+    width: 300px;
+    padding: 10px;
+    height: 800px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.blue {
+    color: dodgerblue;
+}
